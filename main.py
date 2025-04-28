@@ -5,7 +5,6 @@ import time
 import copy
 import random
 
-
 class PuzzleSolver:
     def __init__(self, initial_state):
         self.goal_state = [1, 2, 3, 4, 5, 6, 7, 8, 0]
@@ -389,7 +388,6 @@ class TicTacToeGUI:
             btn.configure(text=" ", state="normal", text_color="white")
         for widget in self.end_game_frame.winfo_children():
             widget.destroy()
-
 
 class GameMenu:
     def __init__(self, root):
