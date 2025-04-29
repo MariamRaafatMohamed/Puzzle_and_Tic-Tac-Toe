@@ -24,17 +24,17 @@ A Python-based game suite with **8-Puzzle** and **Tic-Tac-Toe**, built using `cu
 ### Game Menu
 ![Game Menu](screenshots/game_menu.png)
 
-### 8-Puzzle Solved
-![8-Puzzle Solved](screenshots/8puzzle_solved.png)
+### Puzzle (Dark Mode)
+![Puzzle (Dark Mode)](screenshots/8puzzle_solved.png)
 
-### 8-Puzzle Game Over
-![8-Puzzle Game Over](screenshots/8puzzle_gameover.png)
+### Puzzle (Light Mode)
+![Puzzle (Light Mode)](screenshots/8puzzle_gameover.png)
 
-### Tic-Tac-Toe Player Win
-![Tic-Tac-Toe Win](screenshots/tictactoe_win_1.png)
+### Tic-Tac-Toe (Dark Mode)
+![Tic-Tac-Toe (Dark Mode)](screenshots/tictactoe_win_2.png)
 
-### Tic-Tac-Toe AI Win
-![Tic-Tac-Toe AI Win](screenshots/tictactoe_win_2.png)
+### Tic-Tac-Toe (Light Mode)
+![Tic-Tac-Toe (Light Mode)](screenshots/tictactoe_win_1.png)
 
 ## Installation
 1. Clone the repo:
