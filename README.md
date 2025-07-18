@@ -21,7 +21,7 @@ theme toggle.
     - Random solvable puzzles, move counter, and solving time.
     - Play again or return to menu.
 - **Tic-Tac-Toe**:
-    - Play as 'X' vs. AI ('O').
+    - Play as ('X') vs. AI ('O').
     - Detects wins, losses, or draws.
     - Play again or return to menu.
 
